@@ -156,6 +156,7 @@ p{
 .button {
 	border: none;
 	color: #000;
+    border-radius: 25px;
   }
   .button:after {
 	position: absolute;
